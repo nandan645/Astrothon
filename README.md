@@ -38,3 +38,9 @@ I drew the graph using `matplotlib` and accessed the `fits` file data using astr
 2. Time diagram demonstrating - Used `numppy` and `matplotlib` to draw the space time diagram and marked chandra's integer years with `.`.
 
 3. Sending light signals - Used `numppy` and `matplotlib` to draw the space time diagram to show light signal communication.
+
+
+### Credits :- 
+
+* https://www.youtube.com/
+* https://www.google.co.in/
