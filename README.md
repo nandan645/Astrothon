@@ -15,6 +15,20 @@ Taygete Astronomy based hackathon.
 6. Math library
 7. Cmath library
 
+## Question 1 :- 
+
+### Flux time graph for all star system are in same python files.
+
+I drew the graph using `matplotlib` and accessed the `fits` file data using astropy.
+
+* Star System 1 = Rishi_1
+* Star System 2 = Rishi_2
+* Star System 3 = Rachna
+* Star System 4 = Ankur
+* Star System 5 = Arush
+* Star System 6 = Kushagra
+
+
 ## Question 3 :-
 
 ### All three parts are in same python file.
